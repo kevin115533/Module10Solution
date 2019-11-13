@@ -1,0 +1,9 @@
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\bin\Debug\Module10Project.exe.config
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\bin\Debug\Module10Project.exe
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\bin\Debug\Module10Project.pdb
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.csprojAssemblyReference.cache
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.frmRadioStar.resources
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.Properties.Resources.resources
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.csproj.GenerateResource.cache
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.exe
+C:\Users\Kevin Tran\source\repos\Module10Solution\Module10Project\obj\Debug\Module10Project.pdb
